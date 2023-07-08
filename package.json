@@ -1,0 +1,14 @@
+{
+  "name": "book-city",
+  "version": "1.0.0",
+  "description": "Vanilla JS Book App",
+  "main": "app.js",
+  "scripts": {
+    "start": "live-server",
+    "build": "rollup"
+  },
+  "devDependencies": {
+    "eslint": "^8.33.0",
+    "rollup": "^3.14.0"
+  }
+}
