@@ -1,5 +1,3 @@
-Vanilla JS Book App
-
 # Book City
 
 Vanilla JS Book App
